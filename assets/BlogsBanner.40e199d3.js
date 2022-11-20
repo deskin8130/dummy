@@ -1,1 +1,0 @@
-import{j as e,a}from"./index.8037d2a0.js";const r=({bg:s,type:l})=>e("div",{className:"blogs_banner",style:{backgroundImage:`url(${s})`},children:l==="all_blogs"&&e("div",{className:"caption",children:a("h1",{style:{fontSize:85,lineHeight:1},children:["Our ",e("em",{children:"Blogs"})]})})});export{r as B};

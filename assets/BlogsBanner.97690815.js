@@ -1,0 +1,1 @@
+import{j as l,a}from"./index.aa810826.js";const r=({bg:e,type:s})=>l("div",{className:s==="all_blogs"?"blogs_banner overlay":"blogs_banner",style:{backgroundImage:`url(${e})`},children:s==="all_blogs"&&l("div",{className:"caption",children:a("h1",{style:{fontSize:85,lineHeight:1},children:["Our ",l("em",{children:"Blogs"})]})})});export{r as B};
