@@ -1,1 +1,0 @@
-import{a,W as i,j as e}from"./index.8f3ef027.js";const c=({title:t,canonical:n,keywords:r,description:o})=>a(i,{prioritizeSeoTags:!0,children:[e("title",{children:t}),e("meta",{name:"keywords",content:r}),e("meta",{name:"description",content:o}),e("link",{rel:"canonical",href:n})]});export{c as S};
